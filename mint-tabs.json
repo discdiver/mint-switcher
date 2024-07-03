@@ -1,0 +1,53 @@
+{
+    "name": "Prefect",
+    "logo": {
+        "light": "/logos/logo-word-black.svg",
+        "dark": "/logos/logo-word-white.svg"
+    },
+    "modeToggle": {
+        "default": "light",
+        "isHidden": false
+    },
+    "favicon": "/logos/favicon.png",
+    "colors": {
+        "primary": "#2D6DF6",
+        "light": "#5F92FF",
+        "dark": "#2D6DF6"
+    },
+    "versions": [
+        "2.18",
+        "3.0rc"
+    ],
+    "tabs": [
+        {
+            "name": "Contrib",
+            "url": "contribute/contributing",
+            "version": "2.18"
+        }
+    ],
+    "navigation": [
+        {
+            "group": "Get start",
+            "version": "2.18",
+            "pages": [
+                "2.18/get-started/index",
+                "2.18/get-started/install"
+            ]
+        },
+        {
+            "group": "Get start",
+            "version": "3.0rc",
+            "pages": [
+                "3.0rc/get-started/index",
+                "3.0rc/get-started/install",
+                "3.0rc/get-started/yo"
+            ]
+        },
+        {
+            "group": "Contrib",
+            "pages": [
+                "contribute/contributing"
+            ]
+        }
+    ]
+}
